@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Airtel App Redesign</string>
+
+    <string name="bangladesh">BANGLADESH</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="fixedText">Please Enter Your 11 Digit Mobile Numbers </string>
+    <string name="passText">Please Enter Your Password </string>
+    <string name="submit">SUBMIT </string>
+    <string name="forgotText">Forgot Your Password </string>
+    <string name="create">CREATE AN ACCOUNT</string>
+
+    <string name="welcome_cardholder">Welcome, <b> Mr.Jhon Doe </b> </string>
+
+</resources>
