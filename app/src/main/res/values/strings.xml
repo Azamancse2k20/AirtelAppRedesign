@@ -10,5 +10,7 @@
     <string name="create">CREATE AN ACCOUNT</string>
 
     <string name="welcome_cardholder">Welcome, <b> Mr.Jhon Doe </b> </string>
+    <string name="navigation_open">navigation_open</string>
+    <string name="navigation_close">navigation_close</string>
 
 </resources>
