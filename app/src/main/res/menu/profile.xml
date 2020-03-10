@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/firstGroup">
+
+        <item
+            android:id="@+id/profileId"
+            android:title="Profile"
+            android:icon="@drawable/profile"
+            />
+        <item
+            android:id="@+id/product_service"
+            android:title="Product &amp; Service"
+            android:icon="@drawable/product"
+            />
+
+        <item
+            android:id="@+id/vasId"
+            android:title="VAS"
+            android:icon="@drawable/vas"
+            />
+        <item
+            android:id="@+id/internetId"
+            android:title="Internet Pack"
+            android:icon="@drawable/internet"
+            />
+
+        <item
+            android:id="@+id/livechatId"
+            android:title="Live Chat"
+            android:icon="@drawable/video_chat"
+            />
+
+    </group>
+
+
+
+
+
+    <group android:id="@+id/secondGroup">
+
+
+
+                <item
+                    android:id="@+id/settingsId"
+                    android:title="Settings"
+                    android:icon="@drawable/setting"
+                    />
+
+                <item
+                    android:id="@+id/logoutId"
+                    android:title="Log Out"
+                    android:icon="@drawable/logout"
+                    />
+
+
+
+
+
+
+
+    </group>
+
+
+
+</menu>
